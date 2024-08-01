@@ -1,3 +1,3 @@
 - 👋 Hello, I'm @Casti27
 - 👀 I am interested in Python
-- 🌱 I am currently learning Javascript
+- 🌱 I am currently learning Javascript and Java
